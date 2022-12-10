@@ -11,4 +11,9 @@ int main()
 //prompt for user to enter name:
 
 scanf("%d",&yourName); 
+
+
+//message to be returned
+
+printf("Nice to meet you &yourName")
 }
